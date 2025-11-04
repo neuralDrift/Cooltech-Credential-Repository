@@ -73,6 +73,8 @@ cd client
 npm run dev
 ```
 
+Create a user, then assign admin rights through database to create first admin user
+
 Client expects the API at `http://localhost:5000/api` (see `client/src/api/axiosConfig.js`). If you change `PORT`, update this base URL accordingly.
 
 ### Windows PowerShell note
